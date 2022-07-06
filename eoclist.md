@@ -1,43 +1,70 @@
-last revision Mon 04-22-1996 5:22:24 pm 
-this revision Wed 08-14-1996 7:50:37 pm
+###### Wed Jul 6 15:18:28 EDT 2022
 
-<< eoclist v1.50 >> compiled by tony summerfelt
+#  eoclistv1.51 -  compiled by tony summerfelt
 
-this list is far from complete
-every book i know about that follows the definition for an 'end of the
-world novel is here
+This list is far from complete every book I know about that follows the definition for an 'end of the world' or 'end of civilization'  novel is listed here
 
 eoc - end of civilization
 
-my definition: any novel that has  most of the world's population wiped out
-(by whatever means), the novel deals with those  leftover  any  novels  not
-included (there must be some) i'd like to know, so i can include them in to
-list, and read them also
+My definition: _any novel that has  most of the world's population wiped out
+(by whatever means), the novel deals with those  leftover_
 
-legend:
--------
-        -p   plaque (natural, man caused, or alien)
-        -w   war (nuclear, biological, conventional)
-        -[nd]  natural disaster (earthquakes, flood, ecological, etc.)
-        -g   generations (1 or more generations (25 [yrs]) has passed since
+
+EOC-Z - zombies
+ZA - from aliens
+ZB - biological warfare
+ZN - nuclear war
+EOC-P - plague (no zombies)
+EOC-PA - from aliens
+EOC-N - nuclear
+EOC-E - environmental
+EOC-A - alien invation
+EOC-U - uncategorized
+## Legend:
+ -  -p   plaque (natural, man caused, or alien)
+-g   generations (1 or more generations (25 [yrs]) has passed since
               eoc)
-        -h   ok, this has a 'road warrior' highway feel to it
-        -t   with a twist (twist can be anything, will specify)
-        -ai  alien invasion
+-h   ok, this has a 'road warrior' highway feel to it
+-t   with a twist (twist can be anything, will specify)
+-ai  alien invasion
+### **Plague (No Zombies)**
+| Title  | Author | Category |
+| ----------- | ----------- | ------- |
+| The Big Death (aka Thirst)  |  Charles Eric Maine | ?
+###  **Ecological (earthquakes, flood,  etc.) **
+| Title  | Author | Category |
+| ----------- | ----------- | ------- |
+| After The Rain |  John Bowen | flood
+| All Fool's Day |  EdmundCcooper |  sun's radiation causing mass insanity
 
-after the rain                 - john bowen -[nd]
-after the zap                  - michael armstrong -w -t (cyberpunk eoc)
-after things fell apart        - ron goulart -w -t (black comedy/satire)
-alas babylon                   - pat frank -w
-all fool's day                 - edmund cooper -[nd] -t (sun's radiation
-                                                         causing
-                                                         mass insanity)
-battlefield earth              - l. ron hubbard -w -ai -g(500+ years)          
+###  **War  (nuclear, biological, conventional)**
+| Title  | Author | Category |
+| ----------- | ----------- | ------- |
+| After the Zap | Michael Armstrong |  nuclear
+| Alas, Babylon | Pat Frank  | nuclear
+| The Black Roads | J.L. Hensley  | highway
+
+###  **Alien Invasion**
+| Title  | Author | Category |
+| ----------- | ----------- | ------- |
+| Battlefield Earth | L. Ron Hubbard |  500+ years later
+###  **Zombies**
+| Title  | Author | Category |
+| ----------- | ----------- | ------- |
+
+###  **Comdy/Satire**
+| Title  | Author | Category |
+| ----------- | ----------- | ------- |
+| After Things Fell Apart | Ron Goulart |  War
+
+
+###  **Uncategorized**
+| Title  | Author | Category |
+| ----------- | ----------- | ------- |
+| Beasts | John Crowley | animal people
+| Black August | Dennis Wheatley  | imminent collapse
+
                                               
-beasts                         - john crowley -w -t (animal people)
-the big death (thirst)         - charles eric maine -p 
-black august                   - dennis wheatley -[nd]
-the black roads                - j.l. hensley -w -h
 black snow days                - claudia o'keefe -w -t (something
                                                         futuristic)
 blakely's ark                  - ian macmillan -p
